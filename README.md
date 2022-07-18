@@ -3,7 +3,9 @@
 
 How to use it:
 ```
-python3 wifi_manager.py
+python3 wifi_keys_manager.py
 ```
-
+Or: 
+```
+py wifi_keys_manager.py
 
