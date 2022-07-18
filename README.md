@@ -24,4 +24,4 @@ Selecciona un idioma:
 
 After select an option, appears the entire list of SSID associated with its corresponding key.
 
-This software has been developed for personal use.
+*This software has been developed for personal use.*
